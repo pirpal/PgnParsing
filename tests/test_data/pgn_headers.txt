@@ -1,0 +1,17 @@
+[Event 
+[Site 
+[Date 
+[White 
+[Black 
+[Result 
+[UTCDate 
+[UTCTime 
+[WhiteElo 
+[BlackElo 
+[WhiteRatingDiff 
+[BlackRatingDiff 
+[Variant 
+[TimeControl 
+[ECO 
+[Termination 
+
